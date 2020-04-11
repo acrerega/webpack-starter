@@ -1,3 +1,6 @@
 html, body {
-    background-color: grey;
+    background-color: lightgray
+}
+h1{
+    color: red;
 }
